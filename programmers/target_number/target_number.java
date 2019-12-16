@@ -3,13 +3,12 @@ class Solution {
     static int target = 0;
     static int ans = 0;
     static int[] numbers;
-    
+
     static int[] r = {1, -1};
 
     public void sol1(int order, int order1, int value){
         if(order == limit) {
             if(target == value){
-                // System.out.println(value);
                 ans++;
             }
             return ;
