@@ -1,7 +1,7 @@
 # PS  
 ### 프로그래머스  
-* [타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
-    * [MySolution](programmers/target_number/README.md)     
+* [타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) - [MySolution](programmers/target_number/README.md)  
+* [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) - [MySolution](programmers/network)
 ---
 ### 알고리즘 관련 책 정리 [Book](https://book.naver.com/bookdb/book_detail.nhn?bid=13560672)  
 * [연습문제 풀이](books/9791163030072)
