@@ -1,7 +1,8 @@
 # PS  
 ### 프로그래머스  
 * [타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) - [MySolution](programmers/target_number)  
-* [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) - [MySolution](programmers/network)
+* [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) - [MySolution](programmers/network)  
+* [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) - [MySolution](programmers/word_change)
 ---
 ### 알고리즘 관련 책 정리 [Book](https://book.naver.com/bookdb/book_detail.nhn?bid=13560672)  
 * [연습문제 풀이](books/9791163030072)
@@ -15,4 +16,7 @@
         예를 들어 (num < 10 || num > 99)의 경우, 왼쪽 피연산자의 결과가 true이면 오른쪽 피연산자의 결과에 관계 없이 전체 결과는 true가 된다. (num < 10 && num > 99)의 경우 왼쪽 피연산자의 결과가 false이며 오른쪽 피연산자의 결과에 관계 없이 전체 결과는 false이다. 이처럼 왼쪽 피연산자의 결과만으로 전체 결과가 확정될 때 오른쪽 피연산자를 평가하지 않으며 이를 단축 평가라고 한다.  
     * __드모르간 법칙__  
         각 조건을 부정하고 논리곱을 논리합으로, 논리합을 논리곱으로 바꾸고 다시 전체를 부정하면 원래의 조건과 같다.  
-    * 
+    * __자료구조__란?  
+        데이터 단위와 데이터 자체 사이의 물리적 또는 논리적인 관계, 쉽게 말해 자료를 효율적으로 이용할 수 있도록 컴퓨터에 저장하는 방법    
+        데이터 단위 : 데이터를 구성하는 한 덩어리  
+    * __배열__ : 같은 자료형의 구성 요소들이 하나의 집합으로 모여있는 자료구조.
