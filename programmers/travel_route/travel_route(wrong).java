@@ -1,17 +1,15 @@
 import java.util.*;
 
 class Solution {
-    static String midPath = new String();
+    class Flag {
+        boolean flag = false;
+    }
 
-    public void sol(String airport, int count, String[][] tickets, boolean[] used, ArrayList<String> path){
-
-        midPath += airport + ",";
+    public void sol(String airport, int count, String[][] tickets, boolean[] used, ArrayList<String> path, Flag flag){
+        if(!flag.flag) path.add(airport);
 
         if(count == tickets.length){
-            path.add(midPath.substring(0, midPath.length()-1));
-            // for(int i = 0 ; i < path.size() ; i++)
-            //     System.out.print(path.get(i) + " ");
-            // System.out.println();
+            flag.flag = true;
             return;
         }
 
@@ -27,9 +25,12 @@ class Solution {
 
             for(int i = 0 ; i < stops.length ; i++){
                 used[tmp.get(stops[i])] = true;
-                sol(stops[i], count+1, tickets, used, path);
+                sol(stops[i], count+1, tickets, used, path, flag);
+                if(flag.flag) break;
                 used[tmp.get(stops[i])] = false;
-                midPath = midPath.substring(0, midPath.length()-4);
+                path.remove(path.size()-1);
+
+
             }
         }
     }
@@ -37,11 +38,11 @@ class Solution {
     public String[] solution(String[][] tickets) {
         boolean[] used = new boolean[tickets.length];
         ArrayList<String> path = new ArrayList<>();
+        Flag flag = new Flag();
 
-        sol("ICN", 0, tickets, used, path);
+        sol("ICN", 0, tickets, used, path, flag);
 
-        Collections.sort(path);
-        String[] answer = path.get(0).split(",");
+        String[] answer = path.toArray(new String[path.size()]);
         return answer;
     }
 }
