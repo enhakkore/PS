@@ -4,7 +4,8 @@
 * [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) - [MySolution](programmers/network)  
 * [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) - [MySolution](programmers/word_change)  
 * [여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164) - [MySolution](programmers/travel_route)  
-* [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) - [MySolution](programmers/iron_bar)
+* [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) - [MySolution](programmers/iron_bar)  
+* [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) - [MySolution](programmers/k-th_number)
 ---
 ### 알고리즘 관련 책 정리 [Book](https://book.naver.com/bookdb/book_detail.nhn?bid=13560672)  
 * [연습문제 풀이](books/9791163030072)
