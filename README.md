@@ -9,6 +9,7 @@
 * [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748) - [MySolution](programmers/k-th_number)  
 * [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) - [MySolution](programmers/more_spice)  
 * [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) - [MySolution](programmers/mock_test)  
+* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) - [MySolution](programmers/finding_prime)  
 ---
 ### 알고리즘 관련 책 정리 [Book](https://book.naver.com/bookdb/book_detail.nhn?bid=13560672)  
 * [연습문제 풀이](books/9791163030072)
