@@ -13,7 +13,8 @@
 * [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862) - [MySolution](programmers/gym_clothes)  
 * [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) - [MySolution](programmers/a_fine_square)  
 * [스킬 트리](https://programmers.co.kr/learn/courses/30/lessons/49993) - [MySolution](programmers/skill_tree)  
-* [소수 찾기2](https://programmers.co.kr/learn/courses/30/lessons/12921) - [MySolution](programmers/finding_prime2)
+* [소수 찾기2](https://programmers.co.kr/learn/courses/30/lessons/12921) - [MySolution](programmers/finding_prime2)  
+* [예산](https://programmers.co.kr/learn/courses/30/lessons/43237) - [MySolution](programmers/budget)  
 ---
 ### 알고리즘 관련 책 정리 [Book](https://book.naver.com/bookdb/book_detail.nhn?bid=13560672)  
 * [연습문제 풀이](books/9791163030072)
@@ -139,4 +140,3 @@
             else return (y, x%y);
         }
         ```  
-        
