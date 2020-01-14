@@ -16,6 +16,7 @@
 * [소수 찾기2](https://programmers.co.kr/learn/courses/30/lessons/12921) - [MySolution](programmers/finding_prime2)  
 * [예산](https://programmers.co.kr/learn/courses/30/lessons/43237) - [MySolution](programmers/budget)  
 * [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) - [MySolution](programmers/farthest_node)  
+* [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) - [MySolution](programmers/sort_strings_at_my_disposal)  
 ---
 ### 알고리즘 관련 책 정리 [Book](https://book.naver.com/bookdb/book_detail.nhn?bid=13560672)  
 * [연습문제 풀이](books/9791163030072)
