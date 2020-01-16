@@ -1,6 +1,10 @@
 # PS  
 
 ### 프로그래머스  
+<details>
+<summary>문제 - 솔루션</summary>
+<div markdown="1">
+
 * [타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) - [MySolution](programmers/target_number)  
 * [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) - [MySolution](programmers/network)  
 * [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) - [MySolution](programmers/word_change)  
@@ -18,6 +22,11 @@
 * [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) - [MySolution](programmers/farthest_node)  
 * [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) - [MySolution](programmers/sort_strings_at_my_disposal)  
 * [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) - [MySolution](programmers/caesar_cipher)  
+* [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) - [MySolution](programmers/creating_strange_characters)  
+
+</div>
+</details>  
+
 ---
 ### 알고리즘 관련 책 정리 [Book](https://book.naver.com/bookdb/book_detail.nhn?bid=13560672)  
 * [연습문제 풀이](books/9791163030072)
