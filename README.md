@@ -23,6 +23,7 @@
 * [문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915) - [MySolution](programmers/sort_strings_at_my_disposal)  
 * [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926) - [MySolution](programmers/caesar_cipher)  
 * [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930) - [MySolution](programmers/creating_strange_characters)  
+* [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) - [MySolution](programmers/add_digits)  
 
 </div>
 </details>  
