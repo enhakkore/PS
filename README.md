@@ -26,6 +26,7 @@
 * [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931) - [MySolution](programmers/add_digits)  
 * [숫자 야구](https://programmers.co.kr/learn/courses/30/lessons/42841) - [MySolution](programmers/number_baseball)  
 * [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) - [MySolution](programmers/carpet)  
+* [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) - [MySolution](programmers/make_a_large_number)  
 
 </div>
 </details>  
