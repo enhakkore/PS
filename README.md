@@ -27,6 +27,7 @@
 * [숫자 야구](https://programmers.co.kr/learn/courses/30/lessons/42841) - [MySolution](programmers/number_baseball)  
 * [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) - [MySolution](programmers/carpet)  
 * [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) - [MySolution](programmers/make_a_large_number)  
+* [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) - [MySolution](programmers/kakao_friends_coloring_book)  
 
 </div>
 </details>  
