@@ -30,6 +30,7 @@
 * [카카오프렌즈 컬러링북](https://programmers.co.kr/learn/courses/30/lessons/1829) - [MySolution](programmers/kakao_friends_coloring_book)  
 * [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) - [MySolution](programmers/the_way_to_school)  
 * [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) - [MySolution](programmers/stock_price)  
+* [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) - [MySolution](programmers/the_next_big_number)  
 </div>
 </details>  
 
