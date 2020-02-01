@@ -32,6 +32,7 @@
 * [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) - [MySolution](programmers/stock_price)  
 * [다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911) - [MySolution](programmers/the_next_big_number)  
 * [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) - [MySolution](programmers/phoneketmon)  
+* [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) - [MySolution](programmers/hopscotch)  
 </div>
 </details>  
 
