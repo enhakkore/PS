@@ -34,6 +34,7 @@
 * [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845) - [MySolution](programmers/phoneketmon)  
 * [땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913) - [MySolution](programmers/hopscotch)  
 * [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924) - [MySolution](programmers/the_expression_of_number)  
+* [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) - [MySolution](programmers/lifeboat)  
 </div>
 </details>  
 
