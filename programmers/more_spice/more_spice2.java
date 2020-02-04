@@ -1,10 +1,9 @@
-// 효율성 테스트 통과하지 못함
+// 효율성 테스크 통과
 
 import java.util.*;
 import java.util.stream.*;
 
 class Solution {
-
     public int solution(int[] scoville, int K) {
         PriorityQueue<Integer> pq = new PriorityQueue<>();
         List<Integer> tmp = Arrays.stream(scoville).boxed().collect(Collectors.toList());
@@ -13,20 +12,20 @@ class Solution {
         int answer = 0;
 
         while(true){
-            long count = pq.stream().count();
-            long afterCount = pq.stream().filter( e -> e >= K).count();
-            if( count == afterCount)
+            Integer a = pq.poll();
+            Integer b = pq.poll();
+            if(b == null){
+                if(a < K)
+                    answer = -1;
                 break;
+            }
 
-            if( count <= 1){
-                answer = -1;
-                break;
-            } else {
-                int a = pq.poll();
-                int b = pq.poll();
-                int c = a + (b*2);
+            if( a < K){
+                Integer c = a + b*2;
                 pq.add(c);
                 answer++;
+            } else {
+                break;
             }
         }
 
