@@ -46,6 +46,7 @@
 * [two-sum](https://leetcode.com/problems/two-sum/) - [MyCode](leetcode/two-sum/two-sum.java)  
 * [add-two-numbers](https://leetcode.com/problems/add-two-numbers/) - [MyCode](leetcode/add-two-numbers/add-two-numbers.java)  
 * [reverse-integer](https://leetcode.com/problems/reverse-integer/) - [MyCode](leetcode/reverse-integer/reverse-integer.java)  
+* [palindrome-number](https://leetcode.com/problems/palindrome-number/) - [MySolution](leetcode/palindrome-number)  
 </div>
 </details>   
 
