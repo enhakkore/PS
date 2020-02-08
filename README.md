@@ -47,6 +47,7 @@
 * [add-two-numbers](https://leetcode.com/problems/add-two-numbers/) - [MyCode](leetcode/add-two-numbers/add-two-numbers.java)  
 * [reverse-integer](https://leetcode.com/problems/reverse-integer/) - [MyCode](leetcode/reverse-integer/reverse-integer.java)  
 * [palindrome-number](https://leetcode.com/problems/palindrome-number/) - [MySolution](leetcode/palindrome-number)  
+* [roman-to-integer](https://leetcode.com/problems/roman-to-integer/) - [MyCode](leetcode/roman-to-integer/roman-to-integer.java)  
 </div>
 </details>   
 
