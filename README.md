@@ -48,6 +48,8 @@
 * [reverse-integer](https://leetcode.com/problems/reverse-integer/) - [MyCode](leetcode/reverse-integer/reverse-integer.java)  
 * [palindrome-number](https://leetcode.com/problems/palindrome-number/) - [MySolution](leetcode/palindrome-number)  
 * [roman-to-integer](https://leetcode.com/problems/roman-to-integer/) - [MyCode](leetcode/roman-to-integer/roman-to-integer.java)  
+* [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/) - [MyCode](leetcode/longest-common-prefix/longest-common-prefix.java)  
+* [valid-parentheses](https://leetcode.com/problems/valid-parentheses/) - [MyCode](leetcode/valid-parentheses/valid-parentheses.java)  
 </div>
 </details>   
 
