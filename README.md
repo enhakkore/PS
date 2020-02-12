@@ -50,6 +50,11 @@
 * [roman-to-integer](https://leetcode.com/problems/roman-to-integer/) - [MyCode](leetcode/roman-to-integer/roman-to-integer.java)  
 * [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/) - [MyCode](leetcode/longest-common-prefix/longest-common-prefix.java)  
 * [valid-parentheses](https://leetcode.com/problems/valid-parentheses/) - [MyCode](leetcode/valid-parentheses/valid-parentheses.java)  
+* [delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/) - [MyCode](leetcode/delete-node-in-a-linked-list/delete-node-in-a-linked-list.java)  
+* [middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/) - [MyCode](leetcode/meddle-of-the-linked-list/meddle-of-the-linked-list.java)  
+* [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [MyCode](leetcode/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java)  
+* [remove-element](https://leetcode.com/problems/remove-element/) - [MyCode](leetcode/remove-element/remove-element.java)  
+* [remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/) [MyCode](leetcode/remove-linked-list-elements/remove-linked-list-elements.java)  
 </div>
 </details>   
 
