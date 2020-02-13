@@ -55,6 +55,8 @@
 * [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [MyCode](leetcode/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.java)  
 * [remove-element](https://leetcode.com/problems/remove-element/) - [MyCode](leetcode/remove-element/remove-element.java)  
 * [remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/) [MyCode](leetcode/remove-linked-list-elements/remove-linked-list-elements.java)  
+* [implement-strstr](https://leetcode.com/problems/implement-strstr/) - [MyCode](leetcode/implement-strstr/implement-strstr.java)  
+* [repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern/) - [MyCode](leetCode/repeated-substring-pattern/repeated-substring-pattern.java)  
 </div>
 </details>   
 
