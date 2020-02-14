@@ -56,7 +56,9 @@
 * [remove-element](https://leetcode.com/problems/remove-element/) - [MyCode](leetcode/remove-element/remove-element.java)  
 * [remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/) [MyCode](leetcode/remove-linked-list-elements/remove-linked-list-elements.java)  
 * [implement-strstr](https://leetcode.com/problems/implement-strstr/) - [MyCode](leetcode/implement-strstr/implement-strstr.java)  
-* [repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern/) - [MyCode](leetCode/repeated-substring-pattern/repeated-substring-pattern.java)  
+* [repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern/) - [MyCode](leetcode/repeated-substring-pattern/repeated-substring-pattern.java)  
+* [search-insert-position](https://leetcode.com/problems/search-insert-position/) - [MyCode](leetcode/search-insert-position/search-insert-position.java)  
+* [first-bad-version](https://leetcode.com/problems/first-bad-version/) - [MySolution](leetcode/first-bad-version)  
 </div>
 </details>   
 
