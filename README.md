@@ -59,6 +59,8 @@
 * [repeated-substring-pattern](https://leetcode.com/problems/repeated-substring-pattern/) - [MyCode](leetcode/repeated-substring-pattern/repeated-substring-pattern.java)  
 * [search-insert-position](https://leetcode.com/problems/search-insert-position/) - [MyCode](leetcode/search-insert-position/search-insert-position.java)  
 * [first-bad-version](https://leetcode.com/problems/first-bad-version/) - [MySolution](leetcode/first-bad-version)  
+* [same-tree](https://leetcode.com/problems/same-tree/) - [MyCode](leetcode/same-tree/same-tree.java)  
+* [symmetric-tree](https://leetcode.com/problems/symmetric-tree/) - [MySolution](leetcode/symmetric-tree)  
 </div>
 </details>   
 
