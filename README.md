@@ -61,6 +61,7 @@
 * [first-bad-version](https://leetcode.com/problems/first-bad-version/) - [MySolution](leetcode/first-bad-version)  
 * [same-tree](https://leetcode.com/problems/same-tree/) - [MyCode](leetcode/same-tree/same-tree.java)  
 * [symmetric-tree](https://leetcode.com/problems/symmetric-tree/) - [MySolution](leetcode/symmetric-tree)  
+* [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) - [MyCode](leetcode/merge-sorted-array/merge-sorted-array.java)  
 </div>
 </details>   
 
