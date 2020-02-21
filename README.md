@@ -66,6 +66,7 @@
 * [maximum-subarray](https://leetcode.com/problems/maximum-subarray/) - [MySolution](leetcode/maximum-subarray)  
 * [climbing-stairs](https://leetcode.com/problems/climbing-stairs/) - [MySolution](leetcode/Climbing-stairs)  
 * [single-number](https://leetcode.com/problems/single-number/) - [MySolution](leetcode/single-number)  
+* [rank-transform-of-an-array](https://leetcode.com/problems/rank-transform-of-an-array/) - [MyCode](leetcode/rank-transform-of-an-array/rank-transform-of-an-array.java)  
 </div>
 </details>   
 
