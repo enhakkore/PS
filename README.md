@@ -67,6 +67,8 @@
 * [climbing-stairs](https://leetcode.com/problems/climbing-stairs/) - [MySolution](leetcode/Climbing-stairs)  
 * [single-number](https://leetcode.com/problems/single-number/) - [MySolution](leetcode/single-number)  
 * [rank-transform-of-an-array](https://leetcode.com/problems/rank-transform-of-an-array/) - [MyCode](leetcode/rank-transform-of-an-array/rank-transform-of-an-array.java)  
+* [unique-number-of-occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) - [MyCode](leetcode/unique-number-of-occurrences/unique-number-of-occurrences.java)  
+* [replace-words](https://leetcode.com/problems/replace-words/) - [MyCode](leetcode/replace-words)  
 </div>
 </details>   
 
