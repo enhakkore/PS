@@ -70,6 +70,7 @@
 * [unique-number-of-occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) - [MyCode](leetcode/unique-number-of-occurrences/unique-number-of-occurrences.java)  
 * [replace-words](https://leetcode.com/problems/replace-words/) - [MyCode](leetcode/replace-words)  
 * [find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) - [MyCode](leetcode/find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.java)  
+* [daily-temperatures](https://leetcode.com/problems/daily-temperatures/) - [MyCode](leetcode/daily-temperatures/daily-temperatures.java)  
 </div>
 </details>   
 
