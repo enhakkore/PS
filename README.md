@@ -71,6 +71,7 @@
 * [replace-words](https://leetcode.com/problems/replace-words/) - [MyCode](leetcode/replace-words)  
 * [find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) - [MyCode](leetcode/find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.java)  
 * [daily-temperatures](https://leetcode.com/problems/daily-temperatures/) - [MyCode](leetcode/daily-temperatures/daily-temperatures.java)  
+* [count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) - [MyCode](leetcode/count-negative-number-in-a-sorted-matrix/count-negative-number-in-a-sorted-matrix.java)  
 </div>
 </details>   
 
