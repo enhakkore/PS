@@ -72,6 +72,8 @@
 * [find-numbers-with-even-number-of-digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) - [MyCode](leetcode/find-numbers-with-even-number-of-digits/find-numbers-with-even-number-of-digits.java)  
 * [daily-temperatures](https://leetcode.com/problems/daily-temperatures/) - [MyCode](leetcode/daily-temperatures/daily-temperatures.java)  
 * [count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) - [MyCode](leetcode/count-negative-number-in-a-sorted-matrix/count-negative-number-in-a-sorted-matrix.java)  
+* [check-if-n-and-its-double-exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) - [MyCode](leetcode/check-if-n-and-its-double-exist/check-if-n-and-its-double-exist.java)  
+* [the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) - [MySolution](leetcode/the-k-weakest-rows-in-a-matrix)  
 </div>
 </details>   
 
