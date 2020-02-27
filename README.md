@@ -74,6 +74,7 @@
 * [count-negative-numbers-in-a-sorted-matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) - [MyCode](leetcode/count-negative-number-in-a-sorted-matrix/count-negative-number-in-a-sorted-matrix.java)  
 * [check-if-n-and-its-double-exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) - [MyCode](leetcode/check-if-n-and-its-double-exist/check-if-n-and-its-double-exist.java)  
 * [the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) - [MySolution](leetcode/the-k-weakest-rows-in-a-matrix)  
+* [sort-integers-by-the-number-of-1-bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) - [MySolution](leetcode/sort-integers-by-the-number-of-1-bits)  
 </div>
 </details>   
 
