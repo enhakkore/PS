@@ -76,6 +76,7 @@
 * [the-k-weakest-rows-in-a-matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) - [MySolution](leetcode/the-k-weakest-rows-in-a-matrix)  
 * [sort-integers-by-the-number-of-1-bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) - [MySolution](leetcode/sort-integers-by-the-number-of-1-bits)  
 * [maximum-69-number](https://leetcode.com/problems/maximum-69-number/) - [MySolution](leetcode/maximum-69-number)  
+* [convert-integer-to-the-sum-of-two-no-zero-integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) - [MyCode](leetcode/convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.java)  
 </div>
 </details>   
 
