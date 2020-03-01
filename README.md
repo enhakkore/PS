@@ -77,6 +77,7 @@
 * [sort-integers-by-the-number-of-1-bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) - [MySolution](leetcode/sort-integers-by-the-number-of-1-bits)  
 * [maximum-69-number](https://leetcode.com/problems/maximum-69-number/) - [MySolution](leetcode/maximum-69-number)  
 * [convert-integer-to-the-sum-of-two-no-zero-integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) - [MyCode](leetcode/convert-integer-to-the-sum-of-two-no-zero-integers/convert-integer-to-the-sum-of-two-no-zero-integers.java)  
+* [number-of-steps-to-reduce-a-number-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) - [MyCode](leetcode/number-of-steps-to-reduce-a-number-to-zero/number-of-steps-to-reduce-a-number-to-zero.java)  
 </div>
 </details>   
 
