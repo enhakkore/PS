@@ -80,6 +80,7 @@
 * [number-of-steps-to-reduce-a-number-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) - [MyCode](leetcode/number-of-steps-to-reduce-a-number-to-zero/number-of-steps-to-reduce-a-number-to-zero.java)  
 * [convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) - [MySolution](leetcode/convert-a-number-to-hexadecimal)  
 * [how-many-numbers-are-smaller-than-the-current-number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) - [MySolution](leetcode/how-many-numbers-are-smaller-than-the-current-number)  
+* [decrypt-string-from-alphabet-to-integer-mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) - [MyCode](leetcode/decrypt-string-from-alphabet-to-integer-mapping/decrypt-string-from-alphabet-to-integer-mapping.java)  
 </div>
 </details>   
 
