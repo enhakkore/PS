@@ -81,6 +81,9 @@
 * [convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) - [MySolution](leetcode/convert-a-number-to-hexadecimal)  
 * [how-many-numbers-are-smaller-than-the-current-number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) - [MySolution](leetcode/how-many-numbers-are-smaller-than-the-current-number)  
 * [decrypt-string-from-alphabet-to-integer-mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) - [MyCode](leetcode/decrypt-string-from-alphabet-to-integer-mapping/decrypt-string-from-alphabet-to-integer-mapping.java)  
+* [convert-binary-number-in-a-linked-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) - [MyCode](leetcode/convert-binary-number-in-a-linked-to-integer/convert-binary-number-in-a-linked-to-integer.java)  
+* [subtract-the-product-and-sum-of-digit-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) - [MyCode](leetcode/subtract-the-product-and-sum-of-digit-of-an-integer/subtract-the-product-and-sum-of-digit-of-an-integer.java)  
+* [element-appearing-more-than-25-in-sorted-array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) - [MySolution](leetcode/element-appearing-more-than-25-in-sorted-array)  
 </div>
 </details>   
 
