@@ -88,6 +88,15 @@
 </div>
 </details>   
 
+### hackerrank  
+<details>
+<summary>문제 - 솔루션</summary>
+<div markdown="1">
+
+* [minimum-absolute-difference-in-an-array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) - [MySolution](hackerrank/minimum-absolute-difference-in-an-array)  
+</div>
+</details>  
+
 ---
 ### 알고리즘 관련 책 정리 [Book](https://book.naver.com/bookdb/book_detail.nhn?bid=13560672)  
 * [연습문제 풀이](books/9791163030072)
