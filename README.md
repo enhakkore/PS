@@ -94,6 +94,7 @@
 <div markdown="1">
 
 * [minimum-absolute-difference-in-an-array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem) - [MySolution](hackerrank/minimum-absolute-difference-in-an-array)  
+* [fraudulent-activity-notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting) - [MySolution](hackerrank/fraudulent-activity-notifications)  
 </div>
 </details>  
 
