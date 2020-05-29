@@ -1,0 +1,66 @@
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    /*
+    오름차순으로 정렬된 세가지 숫자가 있을 때 가장 큰 값을 제외한 두 개의 값을 더한 결과가 가장 큰 값보다 클 경우 non-generate triangle이 될 수 있는 조건을 만족한다.
+    */
+
+    // Complete the maximumPerimeterTriangle function below.
+    static int[] maximumPerimeterTriangle(int[] sticks) {
+        sticks = Arrays.stream(sticks).sorted().toArray();
+
+        int i = sticks.length - 3;
+        while( i > -1 && sticks[i]+sticks[i+1] <= sticks[i+2])
+            i--;
+
+        if(i < 0) return new int[1];
+        else {
+            int[] ans = {sticks[i], sticks[i+1], sticks[i+2]};
+            return ans;
+        }
+    }
+
+    private static final Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) throws IOException {
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        int n = scanner.nextInt();
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+        int[] sticks = new int[n];
+
+        String[] sticksItems = scanner.nextLine().split(" ");
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+
+        for (int i = 0; i < n; i++) {
+            int sticksItem = Integer.parseInt(sticksItems[i]);
+            sticks[i] = sticksItem;
+        }
+
+        int[] result = maximumPerimeterTriangle(sticks);
+        if(result.length == 1)
+            bufferedWriter.write("-1");
+        else
+            for (int i = 0; i < result.length; i++) {
+                bufferedWriter.write(String.valueOf(result[i]));
+
+                if (i != result.length - 1) {
+                    bufferedWriter.write(" ");
+                }
+            }
+
+        bufferedWriter.newLine();
+
+        bufferedWriter.close();
+
+        scanner.close();
+    }
+}
