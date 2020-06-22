@@ -1,0 +1,44 @@
+class Solution {
+    public int isPrefixOfWord(String sentence, String searchWord) {
+        char[] word = searchWord.toCharArray();
+        Trie base = new Trie();
+        Trie tmp = base;
+        for(char c : word){
+            Trie mid = new Trie();
+            mid.val = c;
+            tmp.stock[c-'a'] = mid;
+            tmp = mid;
+        }
+        tmp.done = true;
+
+        String[] sArr = sentence.split(" ");
+        int ans = -1;
+        for(int i = 0 ; i < sArr.length ; i++){
+            if(search(sArr[i].toCharArray(), 0, base)){
+                ans = i+1;
+                break;
+            }
+        }
+
+        return ans;
+    }
+
+    public static boolean search(char[] arr, int i, Trie node) {
+        Trie cur = node.stock[arr[i]-'a'];
+
+        if(cur != null){
+            if(i+1 < arr.length)
+                return search(arr, i+1, cur);
+            else
+                return cur.done;
+        } else {
+            return node.done;
+        }
+    }
+
+    public static class Trie{
+        char val;
+        boolean done = false;
+        Trie[] stock = new Trie[26];
+    }
+}
